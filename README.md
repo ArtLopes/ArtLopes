@@ -1,6 +1,6 @@
 - 👋 Opa, sou o @ArtLopes;
 - 👀 Me interesso por machine learning, automações, blockchain e inteligência artificial;
-- 🌱 I’m currently learning Python;
+- 🌱 No momento estou aprendendo Python, e pretendo aprender JavaScript;
 - 📫 Pode me chamar pelo e-mail artcodes0594@gmail.com
 
 <!---
